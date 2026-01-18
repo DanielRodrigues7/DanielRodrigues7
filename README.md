@@ -1,55 +1,57 @@
-<h1 align="center">Olá, eu sou o Daniel 👋</h1>
+## Olá, eu sou o Daniel 👋  
 
-<p align="center">
-  <b>Analista de Infraestrutura Pleno</b> | Especialista em ambientes híbridos, automação e monitoramento
-</p>
-
----
-
-### 🧠 Sobre mim
-
-Sou apaixonado por tecnologia e trabalho com infraestrutura de TI, focando em ambientes Windows, Linux e nuvem (Azure e Google Cloud). Tenho experiência com Active Directory, Zabbix, automações com PowerShell e integração de soluções de rede como UniFi, SonicWall e Fortigate.
-
-Atualmente estou:
-- 🔐 Migrando ambientes para a nuvem com foco em segurança e performance
-- 📈 Monitorando servidores com Zabbix
-- 🤖 Automatizando tarefas com PowerShell
-- 🏢 Gerenciando Active Directory em ambientes híbridos
+**Analista de Infraestrutura Pleno**  
+Focado em ambientes híbridos, DevOps, automação e cloud Azure.
 
 ---
 
-### 🚀 Projetos em destaque
+### 🧠 Sobre mim  
 
-| Projeto               | Descrição                                                                 |
-|-----------------------|--------------------------------------------------------------------------|
-| [zabbix-monitoramento](https://github.com/DanielRodrigues7/zabbix-monitoramento)  | Templates, agentes e boas práticas para monitoramento de servidores      |
-| [ad-gcp](https://github.com/DanielRodrigues7/ad-gcp)                | Configuração de Active Directory hospedado na Google Cloud               |
-| [powershell-infra](https://github.com/DanielRodrigues7/powershell-infra)      | Scripts úteis para automação de tarefas de infraestrutura                |
-| [udmpro-config](https://github.com/DanielRodrigues7/udmpro-config)         | Configuração do UDM Pro integrado com SonicWall                          |
+Sou profissional de infraestrutura com foco em **Windows, Linux, redes, automações e ambientes em nuvem**, atualmente iniciando minha transição para o mundo **DevOps**.
+
+Minhas principais atuações hoje:
+
+- Automatizando rotinas e tarefas de infraestrutura  
+- Trabalhando com containers utilizando **Docker**  
+- Gerenciando repositórios e versionamento com **Git e GitHub**  
+- Administrando ambientes **Azure** (identidade, redes, VMs, segurança)  
+- Monitorando servidores com **Zabbix**  
+- Mantendo ambientes híbridos com Active Directory  
+- Integrando soluções de rede (UniFi, Fortigate, SonicWall)
+
+Atualmente estou aprofundando minha base em DevOps para futuramente evoluir para:  
+**Terraform, Kubernetes, GitHub Actions, CI/CD, Azure DevOps e Observability.**
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🎓 Certificações  
 
+- **Microsoft Azure AZ-900 – Fundamentals**  
+- **Microsoft Azure AZ-104 – Administrator Associate**
+
+---
+
+### 🛠️ Tecnologias e Ferramentas  
+
+#### Núcleo DevOps (início da jornada)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+#### Cloud e Infraestrutura
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-E94D2C?style=flat&logo=zabbix&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
+#### Redes
 ![UniFi](https://img.shields.io/badge/UniFi-0558F2?style=flat&logo=ubiquiti&logoColor=white)
-![SonicWall](https://img.shields.io/badge/SonicWall-FF6600?style=flat)
 ![Fortigate](https://img.shields.io/badge/Fortigate-EE3124?style=flat&logo=fortinet&logoColor=white)
+![SonicWall](https://img.shields.io/badge/SonicWall-FF6600?style=flat)
 
 ---
 
-### 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/daniel-rodrigues-358b41121/)
-- [Email](mailto:daniel07.rodrigues@hotmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielRodrigues7&style=flat-square" alt="Profile views" />
-</p>
+### 📫 Contato  
+- [LinkedIn](https://www.linkedin.com/in/daniel-rodrigues-358b41121/)  
+- daniel07.rodrigues@hotmail.com  
